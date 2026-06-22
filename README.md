@@ -1,7 +1,7 @@
 # Hi 👋 My name is **Pasupuleti Naga Malleswara Rao**
 
 <div align="center">
-  <img src="https://i.imgur.com/Qx0YV3J.jpg" width="500" alt="Max Verstappen"/>
+  <img src="https://media.tenor.com/2N6M7P0n4mUAAAAC/max-verstappen-redbull.gif" width="450" alt="Max Verstappen GIF"/>
 </div>
 
 <div align="center">
