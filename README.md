@@ -1,9 +1,7 @@
 # Hi 👋 My name is **Pasupuleti Naga Malleswara Rao**
 
 <div align="center">
-  <img src="https://media.tenor.com/2N6M7P0n4mUAAAAC/max-verstappen-redbull.gif" width="450" alt="Max Verstappen GIF"/>
-
-  <h3>🏎️ Formula 1 Fan | Max Verstappen Supporter</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Pasupuleti%20Naga%20Malleswara%20Rao&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
