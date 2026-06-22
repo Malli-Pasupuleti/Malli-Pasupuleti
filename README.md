@@ -1,8 +1,8 @@
 # Hi 👋 My name is **Pasupuleti Naga Malleswara Rao**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Pasupuleti%20Naga%20Malleswara%20Rao&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</div>
+<p align="center">
+  <img src="Assets/download.gif" width="500">
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer;Java+Programmer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
