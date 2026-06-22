@@ -1,7 +1,7 @@
 # Hi 👋 My name is **Pasupuleti Naga Malleswara Rao**
 
 <div align="center">
-  <img src="./Assets/download.gif" width="700" alt="Loki">
+  <img src="./Assets/download.gif" width="600" alt="Loki">
 </div>
 
 <div align="center">
